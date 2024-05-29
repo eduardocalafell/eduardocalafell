@@ -1,4 +1,26 @@
-## Hi there 👋
+## Bem-vindo / Welcome 👋
+
+# 👾 Eduardo Calafell ``eduardocalafell``
+Currently working as Back-end Developer and System Specialist at [@intrabank](https://www.intrabank.com.br)
+
+🧙🏼‍♂️ I'm a young back-end developer and system specialist located in São Paulo, Brazil. Turning lines of code into powerful back-end magic.<br>
+📩 Contact me: ``ecalafell96@icloud.com`` or ``eduardo.calafell96@gmail.com``<br>
+⚡ Fun fact: RPG Enthusiastic and coffee lover.
+
+<br>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocalafell&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+### Focused on:
+![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=plastic)
+![Microsoft SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=plastic)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=plastic)
+![Azure DevOps Badge](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=fff&style=plastic)
+![Azure Functions Badge](https://img.shields.io/badge/Azure%20Functions-0062AD?logo=azurefunctions&logoColor=fff&style=plastic)
+![Power Automate Badge](https://img.shields.io/badge/Power%20Automate-06F?logo=powerautomate&logoColor=fff&style=plastic)
+![Power BI Badge](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=plastic)
+
 
 <!--
 **eduardocalafell/eduardocalafell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
