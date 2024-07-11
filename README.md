@@ -3,11 +3,28 @@
 # 👾 Eduardo Calafell ``eduardocalafell``
 Currently working as Back-end Developer and System Specialist at [@intrabank](https://www.intrabank.com.br)
 
-🧙🏼‍♂️ I'm a young back-end developer and system specialist located in São Paulo, Brazil. Turning lines of code into powerful back-end magic.<br>
-📩 Contact me: ``ecalafell96@icloud.com`` or ``eduardo.calafell96@gmail.com``<br>
-⚡ Fun fact: RPG Enthusiastic and coffee lover.
+```csharp
+public class DeveloperProfile
+{
+    public string Name { get; set; } = "Eduardo Henrique Cardoso Calafell";
 
-<br>
+    public int Age { get; set; } = 27;
+
+    public string Location { get; set; } = "São Paulo, Brazil";
+
+    public string Role { get; set; } = "Back-end Developer and System Specialist";
+
+    public string Description { get; set; } = @"🧙🏼‍♂️ I'm a back-end developer and system specialist located in São Paulo, Brazil.
+                                                Turning lines of code into powerful back-end magic.";
+
+    public string ContactEmail1 { get; set; } = "📩 ecalafell96@icloud.com";
+
+    public string ContactEmail2 { get; set; } = "📩 eduardo.calafell96@gmail.com";
+
+    public string FunFact { get; set; } = "⚡ RPG Enthusiast and coffee lover.";
+}
+```
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocalafell&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
@@ -20,7 +37,6 @@ Currently working as Back-end Developer and System Specialist at [@intrabank](ht
 ![Azure Functions Badge](https://img.shields.io/badge/Azure%20Functions-0062AD?logo=azurefunctions&logoColor=fff&style=plastic)
 ![Power Automate Badge](https://img.shields.io/badge/Power%20Automate-06F?logo=powerautomate&logoColor=fff&style=plastic)
 ![Power BI Badge](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=plastic)
-
 
 <!--
 **eduardocalafell/eduardocalafell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
