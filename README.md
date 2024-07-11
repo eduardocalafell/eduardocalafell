@@ -14,7 +14,7 @@ public class DeveloperProfile
 
     public string Role { get; set; } = "Back-end Developer and System Specialist";
 
-    public string Description { get; set; } = @"🧙🏼‍♂️ I'm a back-end developer and system specialist located in São Paulo, Brazil.
+    public string Description { get; set; } = @"🧙🏼‍♂️ I'm a back-end developer and system specialist.
                                                 Turning lines of code into powerful back-end magic.";
 
     public string ContactEmail1 { get; set; } = "📩 ecalafell96@icloud.com";
