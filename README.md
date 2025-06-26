@@ -8,7 +8,9 @@ public class DeveloperProfile
 {
     public string Name { get; set; } = "Eduardo Henrique Cardoso Calafell";
 
-    public int Age { get; set; } = 28;
+    public DateTime BirthDate { get; set; } = new DateTime(1996, 6, 28); // do NOT use int to control peoples age...
+
+    public int Age => DateTime.Today.Year - BirthDate.Year - (BirthDate.Date > DateTime.Today.AddYears(-(DateTime.Today.Year - BirthDate.Year)) ? 1 : 0);
 
     public string Location { get; set; } = "São Paulo, Brazil";
 
@@ -17,9 +19,9 @@ public class DeveloperProfile
     public string Description { get; set; } = @"🧙🏼‍♂️ I'm a back-end developer and system specialist.
                                                 Turning lines of code into powerful back-end magic.";
 
-    public string ContactEmail1 { get; set; } = "📩 ecalafell96@icloud.com";
+    public string ContactEmailPrincipal { get; set; } = "📩 ecalafell96@icloud.com";
 
-    public string ContactEmail2 { get; set; } = "📩 eduardo.calafell96@gmail.com";
+    public string ContactEmailSecondary { get; set; } = "📩 eduardo.calafell96@gmail.com";
 
     public string FunFact { get; set; } = "⚡ RPG Enthusiast and coffee lover.";
 }
