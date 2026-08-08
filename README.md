@@ -22,6 +22,9 @@
   <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=flat-square">
   <img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=flat-square">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat-square">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=fff&style=flat-square">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square">
   <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=fff&style=flat-square">
   <img alt="Azure Functions" src="https://img.shields.io/badge/Azure%20Functions-0062AD?logo=azurefunctions&logoColor=fff&style=flat-square">
   <img alt="Power Automate" src="https://img.shields.io/badge/Power%20Automate-0066FF?logo=powerautomate&logoColor=fff&style=flat-square">
@@ -37,16 +40,24 @@
 
 #### 💼 By day
 
-Back-end developer &amp; system specialist at **[@m8partners](https://m8partners.com.br)** — building **.NET** services, **SQL** databases and **Azure** automation &amp; BI for the financial sector.
+Back-end developer &amp; system specialist at **[@m8partners](https://m8partners.com.br)** — an independent **asset-management &amp; structured-credit** firm. I own much of the backend behind their **FIDC** (receivables-fund) platform.
+
+- 🏦 **FIDC core** — portfolios, receivables &amp; liabilities, eligibility rules &amp; credit-committee reporting
+- ⚙️ **ASP.NET Core 8** APIs, schedulers &amp; external integrations
+- 🖥️ Internal management platform — **Next.js** + **Azure AD** (full-stack when needed)
+- ☁️ **SQL Server** · **Azure** (Functions, DevOps) · **Power BI**
 
   </td>
     <td width="50%" valign="top">
 
 #### 🎮 By night
 
-Author of **10 open-source mods** for the **Pokémon Gen1Recomp** — a modern UI kit, a full Gen&nbsp;2 Pokédex, quality-of-life tools and my own hand-made Fakémons.
+Author of **10 open-source mods** for the **Pokémon Gen1Recomp** — nothing ripped, all built from scratch in **Lua**.
 
-**[🌐 Visual showcase →](https://mods-showcase-site.vercel.app)**
+- 🎨 A modern **UI kit** — dialogue boxes, battle HUD, damage numbers
+- ✨ A full **Gen 2 Pokédex** (#152–251) + my own **Fakémons**
+- ⚡ **Quality-of-life** tools — bag sort, bike, minimap, auto-battle
+- 🌐 **[Visual showcase →](https://mods-showcase-site.vercel.app)**
 
   </td>
   </tr>
