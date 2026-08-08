@@ -1,7 +1,7 @@
 <h1 align="center">Eduardo Calafell</h1>
 
 <p align="center">
-  <b>Back-end Developer &amp; System Specialist</b> · São Paulo, Brazil 🇧🇷
+  <b>Back-end Tech Lead &amp; Software Architect</b> · São Paulo, Brazil 🇧🇷
 </p>
 <p align="center">
   <sub>🧙🏼‍♂️ C# · SQL · Azure by day — Game&nbsp;Boy Pokémon mods by night. Turning lines of code into powerful back-end magic.</sub>
@@ -28,7 +28,6 @@
   <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=fff&style=flat-square">
   <img alt="Azure Functions" src="https://img.shields.io/badge/Azure%20Functions-0062AD?logo=azurefunctions&logoColor=fff&style=flat-square">
   <img alt="Power Automate" src="https://img.shields.io/badge/Power%20Automate-0066FF?logo=powerautomate&logoColor=fff&style=flat-square">
-  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=flat-square">
   <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=flat-square">
 </p>
 
@@ -40,12 +39,13 @@
 
 #### 💼 By day
 
-Back-end developer &amp; system specialist at **[@m8partners](https://m8partners.com.br)** — an independent **asset-management &amp; structured-credit** firm. I own much of the backend behind their **FIDC** (receivables-fund) platform.
+**Tech lead &amp; software architect** at **[@m8partners](https://m8partners.com.br)** — an independent **asset-management &amp; structured-credit** firm. I lead the backend team and own the architecture behind their **FIDC** (receivables-fund) platform.
 
+- 🧭 **Architecture &amp; tech leadership** — system design, standards &amp; guiding the backend team
 - 🏦 **FIDC core** — portfolios, receivables &amp; liabilities, eligibility rules &amp; credit-committee reporting
 - ⚙️ **ASP.NET Core 8** APIs, schedulers &amp; external integrations
 - 🖥️ Internal management platform — **Next.js** + **Azure AD** (full-stack when needed)
-- ☁️ **SQL Server** · **Azure** (Functions, DevOps) · **Power BI**
+- ☁️ **SQL Server** · **Azure** (Functions, DevOps)
 
   </td>
     <td width="50%" valign="top">
