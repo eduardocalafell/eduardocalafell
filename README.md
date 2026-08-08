@@ -40,6 +40,24 @@ public class DeveloperProfile
 ![Power Automate Badge](https://img.shields.io/badge/Power%20Automate-06F?logo=powerautomate&logoColor=fff&style=plastic)
 ![Power BI Badge](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=plastic)
 
+
+---
+
+### 🎮 Side quest — Pokémon Gen1Recomp mods
+
+Ten open-source mods I built for the Game&nbsp;Boy Pokémon recompilation — a modern UI kit, a full Gen&nbsp;2 Pokédex, quality-of-life tools and more.  
+**[🌐 Visual showcase &rarr;](https://mods-showcase-site.vercel.app)**
+
+| Category | Mods |
+| --- | --- |
+| 🎨 **UI &amp; Visuals** | [Modern Dialogue Boxes](https://github.com/eduardocalafell/gen1recomp-modern-dialog) · [Better Battle UI](https://github.com/eduardocalafell/gen1recomp-better-battle-ui) · [Damage Numbers](https://github.com/eduardocalafell/gen1recomp-damage-numbers) |
+| ⚡ **Quality of Life** | [Bag Sort](https://github.com/eduardocalafell/gen1recomp-bag-sort) · [Bike Anywhere](https://github.com/eduardocalafell/gen1recomp-bike-anywhere) · [Minimap](https://github.com/eduardocalafell/gen1recomp-minimap) |
+| 🕹️ **Gameplay** | [Auto Battle](https://github.com/eduardocalafell/gen1recomp-auto-battle) |
+| ✨ **New Content** | [Gen 2 Dex](https://github.com/eduardocalafell/gen1recomp-gen2-dex) · [Fakémons](https://github.com/eduardocalafell/gen1recomp-fakemons) |
+| 🔧 **Fixes** | [Player Sprite Flip](https://github.com/eduardocalafell/gen1recomp-player-sprite-flip) |
+
+<sub>All Mod API 2 · MIT-licensed · live on <a href="https://gen1recomp.com/mod/">gen1recomp.com</a></sub>
+
 <!--
 **eduardocalafell/eduardocalafell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
