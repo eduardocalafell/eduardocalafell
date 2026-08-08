@@ -1,52 +1,64 @@
-## Bem-vindo / Welcome 👋
+<h1 align="center">Eduardo Calafell</h1>
 
-# 👾 Eduardo Calafell ``eduardocalafell``
-Currently working as Back-end Developer and System Specialist at [@intrabank](https://www.intrabank.com.br)
+<p align="center">
+  <b>Back-end Developer &amp; System Specialist</b> · São Paulo, Brazil 🇧🇷
+</p>
+<p align="center">
+  <sub>🧙🏼‍♂️ C# · SQL · Azure by day — Game&nbsp;Boy Pokémon mods by night. Turning lines of code into powerful back-end magic.</sub>
+</p>
 
-```csharp
-public class DeveloperProfile
-{
-    public string Name { get; set; } = "Eduardo Henrique Cardoso Calafell";
-
-    public DateTime BirthDate { get; set; } = new DateTime(1996, 6, 28); // do NOT use int to control peoples age...
-
-    public int Age => DateTime.Today.Year - BirthDate.Year - (BirthDate.Date > DateTime.Today.AddYears(-(DateTime.Today.Year - BirthDate.Year)) ? 1 : 0);
-
-    public string Location { get; set; } = "São Paulo, Brazil";
-
-    public string Role { get; set; } = "Back-end Developer and System Specialist";
-
-    public string Description { get; set; } = @"🧙🏼‍♂️ I'm a back-end developer and system specialist.
-                                                Turning lines of code into powerful back-end magic.";
-
-    public string ContactEmailPrincipal { get; set; } = "📩 ecalafell96@icloud.com";
-
-    public string ContactEmailSecondary { get; set; } = "📩 eduardo.calafell96@gmail.com";
-
-    public string FunFact { get; set; } = "⚡ RPG Enthusiast and coffee lover.";
-}
-```
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocalafell&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-### Focused on:
-![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=plastic)
-![Microsoft SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=plastic)
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=plastic)
-![Azure DevOps Badge](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=fff&style=plastic)
-![Azure Functions Badge](https://img.shields.io/badge/Azure%20Functions-0062AD?logo=azurefunctions&logoColor=fff&style=plastic)
-![Power Automate Badge](https://img.shields.io/badge/Power%20Automate-06F?logo=powerautomate&logoColor=fff&style=plastic)
-![Power BI Badge](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=plastic)
-
+<p align="center">
+  <a href="https://m8partners.com.br"><img alt="m8partners" src="https://img.shields.io/badge/%40m8partners-1a1a1a?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:ecalafell96@icloud.com"><img alt="Email" src="https://img.shields.io/badge/Email-2f9c5a?style=for-the-badge&logo=maildotru&logoColor=white"></a>
+  <a href="https://github.com/eduardocalafell"><img alt="Follow" src="https://img.shields.io/github/followers/eduardocalafell?style=for-the-badge&logo=github&label=Follow&labelColor=1a1a1a&color=2f9c5a"></a>
+</p>
 
 ---
 
-### 🎮 Side quest — Pokémon Gen1Recomp mods
+### 🛠️ Tech Stack
 
-Ten open-source mods I built for the Game&nbsp;Boy Pokémon recompilation — a modern UI kit, a full Gen&nbsp;2 Pokédex, quality-of-life tools and more.  
-**[🌐 Visual showcase &rarr;](https://mods-showcase-site.vercel.app)**
+<p>
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat-square">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=flat-square">
+  <img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=flat-square">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat-square">
+  <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=fff&style=flat-square">
+  <img alt="Azure Functions" src="https://img.shields.io/badge/Azure%20Functions-0062AD?logo=azurefunctions&logoColor=fff&style=flat-square">
+  <img alt="Power Automate" src="https://img.shields.io/badge/Power%20Automate-0066FF?logo=powerautomate&logoColor=fff&style=flat-square">
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=flat-square">
+  <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=flat-square">
+</p>
+
+---
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+#### 💼 By day
+
+Back-end developer &amp; system specialist at **[@m8partners](https://m8partners.com.br)** — building **.NET** services, **SQL** databases and **Azure** automation &amp; BI for the financial sector.
+
+  </td>
+    <td width="50%" valign="top">
+
+#### 🎮 By night
+
+Author of **10 open-source mods** for the **Pokémon Gen1Recomp** — a modern UI kit, a full Gen&nbsp;2 Pokédex, quality-of-life tools and my own hand-made Fakémons.
+
+**[🌐 Visual showcase →](https://mods-showcase-site.vercel.app)**
+
+  </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img alt="CINDRAKE — an original Fakémon" src="https://mods-showcase-site.vercel.app/images/cindrake-dex.png" width="340">
+  <br>
+  <sub>#152 <b>CINDRAKE</b>, the Ember Drake — one of my original Fakémons 🐉🔥</sub>
+</div>
+
+### 🎮 Pokémon Gen1Recomp — mod collection
 
 | Category | Mods |
 | --- | --- |
@@ -58,17 +70,8 @@ Ten open-source mods I built for the Game&nbsp;Boy Pokémon recompilation — a 
 
 <sub>All Mod API 2 · MIT-licensed · live on <a href="https://gen1recomp.com/mod/">gen1recomp.com</a></sub>
 
-<!--
-**eduardocalafell/eduardocalafell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <sub>⚡ RPG enthusiast &amp; coffee lover · 📩 ecalafell96@icloud.com · eduardo.calafell96@gmail.com</sub>
+</p>
